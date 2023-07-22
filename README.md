@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sayan
+<h1 align="center"> Hi 👋, I'm Sayan</h1>
 
 ## 💫 About Me:
 🔭 I’m currently working on some projects related to Frontend Development and Data Analysis.<br>🌱 I’m currently learning more about Web Development, Supervised and Unsupervised learning, and Object Detection.<br>👯 I’m looking to collaborate on any interesting and challenging Web dev or AI/ML projects.<br>📫 How to reach me: <a href="mailto:sayansomya777@gmail.com">sayansomya777@gmail.com</a><br>😄 Pronouns: he/him<br>⚡ Fun fact: I can play Fortnite and the Keyboard.<br>🎵 What I’m listening to [Детство](https://open.spotify.com/track/5snCfoQbJ7S4cYB0K8XuJ4?si=bcc7fe6a71884d00)
